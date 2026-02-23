@@ -1,4 +1,4 @@
-# 算法篇：Minimind的GRPO
+# 算法篇：Minimind的GRPO及其变体
 
 ## 1 引言
 
